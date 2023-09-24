@@ -1,5 +1,6 @@
 #pragma once
 #include <misc/miniaudio.h>
+#include <cstdint>
 #include <string>
 #include <string.h>
 
